@@ -1,5 +1,5 @@
 {
-  "name": "kotlin-playground",
+  "name": "@hypnosphi/kotlin-playground",
   "version": "1.20.0",
   "description": "Self-contained component to embed in websites for running Kotlin code",
   "keywords": [
