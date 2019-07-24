@@ -554,6 +554,7 @@ export default class ExecutableFragment extends ExecutableCodeTemplate {
     this.jsExecutor = false;
     this.state = null;
     this.codemirror.toTextArea();
+    this.off();
     this.remove();
   }
 }
